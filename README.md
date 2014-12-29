@@ -1,0 +1,1 @@
+Cloud code project for kakaku. https://cn.avoscloud.com/docs/cloud_code_guide.html
